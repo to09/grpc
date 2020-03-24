@@ -13,3 +13,4 @@ py_library(
         "@com_github_zopefoundation_zope_interface//:zope_interface",
     ],
 )
+()
